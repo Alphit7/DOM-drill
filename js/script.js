@@ -1,3 +1,4 @@
-import { listUlChildren } from "./List-ulChildren.js";
+import { listUlChildren, alertName } from "./List-ulChildren.js";
 
 listUlChildren();
+alertName();
